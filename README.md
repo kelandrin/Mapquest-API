@@ -22,6 +22,6 @@ TOTALDISTANCE
 ELEVATION  
 
 Supporting files:  
-mapquest_api (uses Mapquests API to request information, and converts to Json then reads back. **Uses URLlib and Json packages**)
+mapquest_api (uses Mapquests API to request information, and converts to Json then reads back. **Uses URLlib and Json packages**)  
 output_generator (uses info read from mapquest to give output to user)
 
